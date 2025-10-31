@@ -11,27 +11,27 @@ Working on Following technologies. 🚀
    
   <a href="https://www.jenkins.io/" target="_blank">
       <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg"  height="75" />
-  </a>
+  </a>&nbsp
    
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
+  </a>&nbsp
 
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"  height="80" />
-  </a>
+  </a>&nbsp
 
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg"  height="80" />
-  </a>
+  </a>&nbsp
   
   <a href="https://docs.ansible.com/" target="_blank" >
     <img src="https://icon.icepanel.io/Technology/svg/Ansible.svg"  height="80" />
-  </a>
+  </a>&nbsp
 
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg"  height="80" />
-  </a>
+  </a>&nbsp
 </p>
 
 ### Monitoring & Alerting 
@@ -41,11 +41,11 @@ Working on Following technologies. 🚀
 
   <a href="https://wazuh.com/" target="_blank" >
     <img src="https://cdn.brandfetch.io/idGBqJSmMa/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1756475187781" height="35" />
-  </a>
+  </a>&nbsp
    
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" height="65" />
-  </a>
+  </a>&nbsp
 </p>
 
 ### Databases 
