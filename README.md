@@ -37,6 +37,10 @@ Working on Following technologies. 🚀
 ### Monitoring & Alerting 
   <a href="https://www.zabbix.com/" target="_blank" >
     <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="35" />
+  </a> &nbsp
+
+  <a href="https://wazuh.com/" target="_blank" >
+    <img src="https://cdn.brandfetch.io/idGBqJSmMa/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1756475187781" height="35" />
   </a>
    
   <a href="https://prometheus.io/" target="_blank" >
