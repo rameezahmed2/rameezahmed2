@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**rameezahmed2/rameezahmed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am [Rameez Ahmed ](http://www.linkedin.com/in/rameezahmed25) working as DevOps Engineer, from [🇵🇰](https://en.wikipedia.org/wiki/Pakistan)&nbsp; passionate about developing production-ready applications.
 
@@ -36,11 +34,7 @@ Working on Following technologies. 🚀
   </a>
 </p>
 
-### Databases and Monitoring
-<p>
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="45" />
-  </a>
+### Monitoring & Alerting 
   <a href="https://www.zabbix.com/" target="_blank" >
     <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="35" />
   </a>
@@ -50,6 +44,11 @@ Working on Following technologies. 🚀
   </a>
 </p>
 
+### Databases 
+<p>
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="45" />
+  </a>
 
   
 ### 🌐 Socials:
