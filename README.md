@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 I am [Rameez Ahmed ](http://www.linkedin.com/in/rameezahmed25) working as DevOps Engineer, from [🇵🇰](https://en.wikipedia.org/wiki/Pakistan)&nbsp; passionate about developing production-ready applications.
 
 Working on Following technologies. 🚀
