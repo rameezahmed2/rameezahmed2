@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps Engineer** working @ForeePay Pvt Ltd. ** Experinced in **Development, DevOps, and Platform Engineering** from Pakistan, with **1+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **DevOps Engineer** working @ForeePay Pvt Ltd. Experienced in **Development, DevOps, and Platform Engineering** from Pakistan, with **1+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 🔭 Currently working on **DevOps/Platform engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
